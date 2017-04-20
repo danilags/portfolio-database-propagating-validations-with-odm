@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-database-propagating-validations-with-odm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilags/portfolio-database-propagating-validations-with-odm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilags/portfolio-database-propagating-validations-with-odm/issues"
+  },
+  "homepage": "https://github.com/danilags/portfolio-database-propagating-validations-with-odm#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.5",
+    "nodemon": "^1.11.0"
+  }
+}
